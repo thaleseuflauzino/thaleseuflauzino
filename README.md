@@ -2,7 +2,7 @@
 <br><br>
 
 <div align="center"> 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="450" alt="animated hello">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="450">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0e68c&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Thales+Euflauzino;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
