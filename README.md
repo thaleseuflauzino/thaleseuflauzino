@@ -28,7 +28,7 @@
 <div align="center">
 
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"/>
-<img width="40" src="https://www.vippng.com/png/full/395-3953813_java-logo-transparent-background.png"/>
+<img width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
 
 <div align="center">
 
