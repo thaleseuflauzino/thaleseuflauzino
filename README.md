@@ -8,8 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0e68c&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Thales+Euflauzino;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thaleseuflauzino&hide_border=true&show_icons=true&title_color=f0e68c&icon_color=f0e68c&text_color=c9d1d9&bg_color=0d1117&locale=pt-br"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleseuflauzino&layout=donut&hide_border=true&show_icons=true&title_color=f0e68c&icon_color=f0e68c&text_color=c9d1d9&bg_color=0d1117&locale=pt-br">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thaleseuflauzino&show_icons=true&theme=default&text_color=fff&title_color=f0e68c&rank_icon=percentile&bg_color=0d1117&icon_color=f0e68c&hide_border=true&locale=pt-br" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleseuflauzino&size_weight=0.5&count_weight=0.5&layout=donut&text_color=fff&title_color=f0e68c&bg_color=0d1117&hide_border=true&locale=pt-br">
 </div>
 
 <div align="center"> 
