@@ -10,12 +10,17 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thaleseuflauzino&show_icons=true&theme=default&text_color=fff&title_color=f0e68c&rank_icon=percentile&bg_color=0d1117&icon_color=f0e68c&hide_border=true&locale=pt-br" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleseuflauzino&size_weight=0.5&count_weight=0.5&layout=donut&text_color=fff&title_color=f0e68c&bg_color=0d1117&hide_border=true&locale=pt-br">
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaleseuflauzino&custom_title=Minhas%20Contribuições&hide_border=true&theme=one-dark&point=f0e68c&line=fff&days=15&text_color=fff&title_color=f0e68c&bg_color=0d1117&icon_color=f0e68c)](https://github.com/thaleseuflauzino/github-readme-activity-graph)
 </div>
 
 <div align="center"> 
   <a href = "mailto:thaleseuflauzino@gmail.com"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Instagram" width="60"/>
   <a href="https://instagram.com/thales.santos8" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="E-Mail" width="60" />
   <a href = "https://www.linkedin.com/in/thaleseuflauzino"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt= "LinkedIn" width="60" />
+<div style="text-align: center;" align="center">
+</div>
+<br>
 </div>
  <div align="center"> 
 <img width="50%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"
