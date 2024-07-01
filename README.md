@@ -36,11 +36,11 @@
 
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png"/>
 
 <div align="center">
 
 ### Studying in this moment:
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png"/>
 <img width="40" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
 <img width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
 <img width="40" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"/>
