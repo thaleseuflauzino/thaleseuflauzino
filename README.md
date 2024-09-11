@@ -13,9 +13,10 @@
     <img src="https://img.shields.io/badge/-CHECK%20HERE%20MY%20PERSONAL%20PORTFOLIO-f0e68c?style=for-the-badge&logo=web&logoColor=black" alt="Portfolio Badge">
   </a>
 </div>
+<br><br>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thaleseuflauzino&show_icons=true&theme=default&text_color=fff&title_color=f0e68c&rank_icon=default&bg_color=0d1117&icon_color=f0e68c&hide_border=true&locale=pt-br" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleseuflauzino&size_weight=0.5&count_weight=0.5&layout=donut&text_color=fff&title_color=f0e68c&bg_color=0d1117&hide_border=true&locale=pt-br">
+  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=thaleseuflauzino&show_icons=true&theme=default&text_color=fff&title_color=f0e68c&rank_icon=default&bg_color=0d1117&icon_color=f0e68c&hide_border=true&locale=pt-br" />
+  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleseuflauzino&size_weight=0.5&count_weight=0.5&layout=donut&text_color=fff&title_color=f0e68c&bg_color=0d1117&hide_border=true&locale=pt-br">
   <br><br>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaleseuflauzino&custom_title=Minhas%20Contribuições&hide_border=true&theme=one-dark&point=f0e68c&line=fff&days=15&text_color=fff&title_color=f0e68c&bg_color=0d1117&icon_color=f0e68c)](https://github.com/thaleseuflauzino/github-readme-activity-graph)
