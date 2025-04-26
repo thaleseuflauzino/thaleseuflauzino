@@ -39,19 +39,10 @@
  </div>
  <div align="center">
    
- ### Main skills:
+ ### Skills:
 <div align="center">
 
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"/>
-<img width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png"/>
-
-<div align="center">
-
-### Studying in this moment:
-<img width="40" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
-<img width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
-<img width="40" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"/>
+[![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,ts,js,react,vite,vue,py,django,nodejs,mysql,postgres,sqlite,postman,md,regex,vercel,docker,selenium,html,css,figma&perline=8)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br><br>
