@@ -29,12 +29,6 @@
   <a href="https://instagram.com/thales.santos8" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="E-Mail" width="60" />
 </div>
 
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thaleseuflauzino}/count.svg" /></p> 
-<br>
-</div>
-
 <div style="text-align: center;" align="center">
 </div>
 <br>
